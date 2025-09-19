@@ -81,4 +81,4 @@ Greeks: Uses analytical and numerical derivatives to find option price sensitivi
 
 ---
 
-**Contact**: mormaza05@icloud.com | **LinkedIn**: Mateo Ormaza
+**Contact**: mormaza05@icloud.com | **LinkedIn**: [Mateo Ormaza](https://www.linkedin.com/in/mateo-ormaza-43123325b/)
